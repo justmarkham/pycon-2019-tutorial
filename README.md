@@ -60,7 +60,7 @@ In this tutorial, you'll use pandas to answer questions about multiple real-worl
 
 ## How well do I need to know pandas to participate?
 
-You will get the most out of this tutorial if you are an intermediate pandas user, since the tutorial will not cover pandas basics. If you are new to pandas or just need a refresher, I recommend watching some videos from my free [pandas course](http://www.dataschool.io/easier-data-analysis-with-pandas/). Alternatively, you can review all of the code from my pandas course in this [Jupyter notebook](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb).
+You will get the most out of this tutorial if you are an intermediate pandas user, since the tutorial will not cover pandas basics. If you are new to pandas, I recommend watching some videos from my free [pandas course](https://www.dataschool.io/easier-data-analysis-with-pandas/) before the tutorial. If you just need a pandas refresher, I recommend reviewing this [Jupyter notebook](https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb), which includes all of the code from my pandas course.
 
 ## Who is the instructor?
 
