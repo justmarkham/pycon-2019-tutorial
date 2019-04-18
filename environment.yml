@@ -1,0 +1,6 @@
+name: pycon-2019-tutorial
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
