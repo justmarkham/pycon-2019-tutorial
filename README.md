@@ -2,6 +2,8 @@
 
 This tutorial will be presented by Kevin Markham at PyCon on [May 2, 2019](https://us.pycon.org/2019/schedule/presentation/92/).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/justmarkham/pycon-2019-tutorial/master?filepath=tutorial.ipynb)
+
 ## What do I need to do before the tutorial?
 
 Here is what you should do **before May 2:**
