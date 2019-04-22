@@ -16,9 +16,9 @@ Here is what you should do **before May 2:**
 
 Here are three options that will work equally well:
 
-- If you know how to use git, you can click the green button above and **clone the repository**.
-- If you know how to open a ZIP file, you can click the green button above and **download the repository**.
-- If you want to directly download just the CSV file, **right click on the following link** and select "Save As": [`ted.csv`](https://raw.githubusercontent.com/justmarkham/pycon-2019-tutorial/master/ted.csv).
+- If you want to directly download only the CSV file, **right click on the following link** and select "Save As": [`ted.csv`](https://raw.githubusercontent.com/justmarkham/pycon-2019-tutorial/master/ted.csv).
+- If you know how to use git, you can click the green button above and **clone the entire repository**.
+- If you know how to open a ZIP file, you can click the green button above and **download the entire repository**.
 
 ## How can I check that pandas and matplotlib are properly installed?
 
