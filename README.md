@@ -1,6 +1,8 @@
 # Data Science Best Practices with pandas
 
-This tutorial was presented by Kevin Markham at PyCon on [May 2, 2019](https://us.pycon.org/2019/schedule/presentation/92/).
+This tutorial was presented by Kevin Markham at PyCon on [May 2, 2019](https://us.pycon.org/2019/schedule/presentation/92/). Watch the complete [tutorial video](https://www.youtube.com/watch?v=dPwLlJkSHLo) on YouTube.
+
+[![Data Science Best Practices with pandas](youtube.jpg)](https://www.youtube.com/watch?v=dPwLlJkSHLo "Watch the complete tutorial video on YouTube")
 
 ## Jupyter Notebook
 
